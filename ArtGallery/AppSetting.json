@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=LAPTOP-56PA0674;Database=VIRTUAL;Trusted_connection=true"
+  }
+}
